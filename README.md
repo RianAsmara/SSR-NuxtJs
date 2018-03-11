@@ -1,6 +1,8 @@
-# ssr-nuxt
+# Server Side Rendering NuxtJs
 
-> Nuxt.js project
+iTunes API
+
+[https://itunes.apple.com/search?parameterkeyvalue](https://itunes.apple.com/search?parameterkeyvalue)
 
 ## Build Setup
 
