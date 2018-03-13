@@ -2,7 +2,7 @@
 
 iTunes API
 
-[https://itunes.apple.com/search?parameterkeyvalue](https://itunes.apple.com/search?parameterkeyvalue)
+[https://itunes.apple.com/search?term=${params.id}&entity=album](https://itunes.apple.com/search?term=${params.id}&entity=album)
 
 ## Build Setup
 
